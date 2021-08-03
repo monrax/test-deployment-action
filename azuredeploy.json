@@ -22,8 +22,8 @@
     "variables": {
       "container1name": "resurface",
       "container1image": "resurface.azurecr.io/resurface:2.3.1",
-      "container2name": "test-aiohttp",
-      "container2image": "resurface.azurecr.io/test-aiohttp:1.0"
+      "container2name": "test-django",
+      "container2image": "resurface.azurecr.io/test-django:1.0"
     },
     "resources": [
       {

@@ -66,6 +66,11 @@
                     "memoryInGb": 1.5
                   }
                 },
+                "ports": [
+                  {
+                    "port": 8000
+                  }
+                ]
                 "environmentVariables": [
                   {
                     "name": "USAGE_LOGGERS_URL",

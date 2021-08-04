@@ -103,7 +103,11 @@
               {
                 "protocol": "tcp",
                 "port": 4002
-              }
+              },
+              {
+                "protocol": "tcp",
+                "port": 8000
+              }  
             ]
           }
         }
